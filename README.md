@@ -1,4 +1,4 @@
-This project demonstrates the ability to:
+This exercise demonstrates the ability to:
 
 - Query relational databases
 - Filter records using WHERE
